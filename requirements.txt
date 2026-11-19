@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-core
+langchain-classic
+langchain-google-genai
+langchain-chroma
+chromadb
+google-generativeai
+langchain-openai
+python-dotenv
+pypdf
+langchain-text-splitters
